@@ -5,3 +5,15 @@
 **/dist
 **/js/dist
 **/js/node_modules
+
+# Typical Python virtual environment files
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Jupyter Notebook
+.ipynb_checkpoints
